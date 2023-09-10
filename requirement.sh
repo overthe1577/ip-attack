@@ -2,12 +2,7 @@
 # 
 #
 # Name	:	IP Attack
-# Code		:	python
-# Sec.Code	:	8h4i
-# Coder		: 	Sutariya Parixit
-# Site		: 	bhai4you.blogspot.com
-# github	:	github.com/Bhai4You
-#
+# Coder		: 	overthe1577
 #
 #	<==(__WARNING__)==>
 #
